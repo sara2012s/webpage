@@ -1,0 +1,26 @@
+:root{
+    --primary-color:pink;
+    --title-color:red;
+    --secondary-color:black;
+    --link-color:yellow;
+    --ngjyra:green;
+    --z-index:1;
+    --text-color:hotpink;
+    --secondary-color:orange;
+    --image:50px;
+}
+body{
+    background-color: var(--backgroud-color);
+}
+
+.title{
+    color: var(--title-color);
+}
+.descprition{
+    color: var(--descprition-color);
+}
+
+.link{
+    color: var(--link-color);
+
+}
